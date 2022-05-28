@@ -1,5 +1,7 @@
 # DB quiz correction
 
+[The DB schema](https://kitt.lewagon.com/db/63111)
+
 What’s the SQL query to get books
 written before 1985?
 
